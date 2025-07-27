@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81639cac-d83e-4bea-a428-e0d39c13eccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Calculadoradeedad/src/main/java/CalculadoradeEdad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana2_Edad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Semana2_Edad/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,9 @@
       <workItem from="1753597123942" duration="68000" />
       <workItem from="1753597212108" duration="145000" />
       <workItem from="1753597513983" duration="201000" />
+      <workItem from="1753598188741" duration="115000" />
+      <workItem from="1753598990126" duration="7000" />
+      <workItem from="1753637014255" duration="43000" />
     </task>
     <servers />
   </component>
